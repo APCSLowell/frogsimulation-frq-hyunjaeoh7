@@ -36,7 +36,7 @@ public class FrogSimulation
 				ok++;
 			}
 		}
-		return ok/(double)num;
+		return ok/num;
 	}
 	
 	
